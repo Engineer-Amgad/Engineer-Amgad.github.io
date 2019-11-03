@@ -1,11 +1,11 @@
 # Site settings
 author: Amgad Malik
-title: 
+title: Amgad Malik
 header-img: img/home-bg.png
 email: amgadmalik@yahoo.com
 copyright_name: Amgad Malik
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A software Engineering in the making
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Engineer-Amgad
